@@ -23,3 +23,7 @@ Por exemplo, se tiver um arquivo com o nome "kitten.png" no diretório atual, e 
 
 9 - Modifique o Shell Script do exercício anterior para receber o diretório onde estão os arquivos e a extensão dos arquivos que devem ser modificados como argumento (ou parâmetro).
 Adicione também um mensagem mostrando como eram o como vão ficar os nomes dos arquivos a serem modificados.
+
+10 - Crie um script que possa receber um IP informado via linha de comando no terminal e exiba se o endereço está online ou offline.
+
+11 - Altere o programa anterior para receber via linha de comando no terminal um arquivo que contenha uma lista de endereços IP, apresente para cada endereço se esta online ou offline e crie dois arquivos de log, um contendo a lista de IPs que esta online e outro para conter a lista de IPs que está offline.
